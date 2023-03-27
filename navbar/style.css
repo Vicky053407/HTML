@@ -1,5 +1,4 @@
 body{
-    background-image: url('./sun.jpg');
     color:#000305;
     font-size: 87.5%;
     font-family: arial,'Lucida Sans';
@@ -39,8 +38,8 @@ a:hover,a:active{
     margin: 0 auto;
 }
 .mainheader ul nav li{
-    float: left;
-    display: inline;
+    float:none;
+    display:inline;
 }
 .mainheader nav a:link, .mainheader nav a:visited{
     color: #fff;
